@@ -1,0 +1,13 @@
+body {
+	min-height: 100vh;
+	background-color: #CCC;
+	background-image: url('https://unsplash.it/g/1500/800?random');
+}
+
+.login-form {
+	margin-top: 50vh;
+	height: 200px;
+	background-color: #FFF;
+
+	transform: translateY(-50%);
+}
